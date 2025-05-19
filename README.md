@@ -9,10 +9,19 @@ OpenPOPCON is a tool for scoping tokamak design and operation using 0-D fitted s
 ## 🚀 Quick Start
 1. **Register or Log In**
    Create a free account at [fusiontwin.io/auth/register](https://fusiontwin.io/auth/register), or log in to your existing account.
-2. **Choose an Example**  
-   Review the provided examples. Choose one to customize and run.
-3. **Run the Script**  
-   Run the script to verify it works. Customize the JSON files and scripts until you are satisfied with the results.
+2. **Navigate to the JupyterHub**
+   Once you're logged in, navigate to the JupyterHub using the navigation bar at the left of the screen.
+3. **Clone the OpenPOPCON Examples Repository**
+   Select the "Git" tab in the JupyterHub, and then click on the "Clone a Repository" button. Enter the URL of the OpenPOPCON Examples repository (https://github.com/Next-Step-Fusion/platform-openpopcon-examples.git) and click "CLONE".
+4. **Open the MANTA Example Notebook**
+   Once the repository is cloned, navigate to the "manta_example.ipynb" file in the JupyterHub. Run the notebook by clicking on the "Run" button in the top right corner of the screen.
 
-## 📂 Examples
-These examples demonstrate how to use OpenPOPCON:
+## 📬 Support
+Need assistance? We’re here to help.  
+📧 Contact us: [twin@nextfusion.org](mailto:twin@nextfusion.org)
+
+## 🔗 Follow Us
+Stay connected with the latest updates and developments:  
+👉 [Follow us on LinkedIn](https://www.linkedin.com/company/nextfusion/)
+👉 [Read our tech blog](https://blog.nextfusion.org)
+👉 [Watch our video](https://www.youtube.com/@NextStepFusion)
